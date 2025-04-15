@@ -1,0 +1,21 @@
+patient_id,patient_name,date_of_birth,gender,address,phone_number
+1,John Smith,5/15/1980,Male,"123 Main St, Anytown",123-456-7890
+2,Emily Brown,9/20/1975,Female,"456 Elm St, Anytown",234-567-8901
+3,David Johnson,2/10/1992,Male,"789 Oak St, Anytown",345-678-9012
+4,Sarah Adams,7/12/1988,Female,"567 Maple St, Anytown",456-789-0123
+5,Michael Clark,3/25/1970,Male,"890 Pine St, Anytown",567-890-1234
+6,Jessica White,11/30/1985,Female,"678 Cedar St, Anytown",678-901-2345
+7,Robert Taylor,1/5/1995,Male,"901 Oakwood St, Anytown",789-012-3456
+8,Jennifer Lee,8/18/1982,Female,"234 Cedar Lane, Anytown",890-123-4567
+9,Christopher Brown,6/23/1978,Male,"345 Oak Lane, Anytown",901-234-5678
+10,Amanda Wilson,4/17/1990,Female,"456 Pine Lane, Anytown",012-345-6789
+11,Daniel Martinez,9/3/1983,Male,"567 Maple Lane, Anytown",123-456-7890
+12,Ashley Harris,12/28/1993,Female,"678 Cedar Lane, Anytown",234-567-8901
+13,Matthew Thompson,2/14/1976,Male,"789 Oakwood Lane, Anytown",345-678-9012
+14,Elizabeth Rodriguez,10/9/1987,Female,"890 Elm Lane, Anytown",456-789-0123
+15,Kevin Wright,5/22/1981,Male,"901 Pine Lane, Anytown",567-890-1234
+16,Samantha King,8/7/1974,Female,"123 Cedar Lane, Anytown",678-901-2345
+17,Joshua Scott,3/12/1994,Male,"234 Oakwood Lane, Anytown",789-012-3456
+18,Lauren Turner,11/19/1986,Female,"345 Maple Lane, Anytown",890-123-4567
+19,Justin Hall,7/2/1977,Male,"456 Pine Lane, Anytown",901-234-5678
+20,Megan Baker,1/15/1991,Female,"567 Elm Lane, Anytown",012-345-6789

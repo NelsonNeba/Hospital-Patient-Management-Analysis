@@ -1,0 +1,21 @@
+record_id,patient_id,admission_date,discharge_date,diagnosis,treatment,doctor_id
+101,1,2023-01-05,2023-01-10,Pneumonia,Antibiotics,201
+102,2,2023-02-10,2023-02-15,Diabetes,Insulin therapy,202
+103,3,2023-03-20,2023-03-25,Hypertension,ACE inhibitors,203
+104,4,2023-04-12,2023-04-20,Influenza,Antiviral medication,201
+105,5,2023-05-08,2023-05-15,Asthma,Bronchodilators,202
+106,6,2023-06-18,2023-06-25,Arthritis,NSAIDs,203
+107,7,2023-07-03,2023-07-10,Migraine,Triptans,201
+108,8,2023-08-25,2023-09-02,Depression,SSRI,202
+109,9,2023-09-10,2023-09-18,Anxiety,Benzodiazepines,203
+110,10,2023-10-22,2023-10-30,Allergies,Antihistamines,201
+111,11,2023-11-05,2023-11-12,Gastritis,Proton pump inhibitors,202
+112,12,2023-12-15,2023-12-22,COPD,Bronchodilators,203
+113,13,2024-01-02,2024-01-09,Insomnia,Sedatives,201
+114,14,2024-02-08,2024-02-15,Osteoporosis,Bisphosphonates,202
+115,15,2024-03-17,2024-03-24,Thyroid disorder,Thyroid hormone therapy,203
+116,16,2024-04-09,2024-04-16,Sinusitis,Decongestants,201
+117,17,2024-05-23,2024-05-30,Hypothyroidism,Levothyroxine,202
+118,18,2024-06-30,2024-07-07,Eczema,Topical corticosteroids,203
+119,19,2024-07-14,2024-07-21,Psoriasis,Phototherapy,201
+120,20,2024-08-26,2024-09-02,Obesity,Diet and exercise,202
